@@ -1,0 +1,93 @@
+.title{
+  text-align: center;
+  font-size: 25px;
+
+}
+#imgs{
+  height: 100px;
+  width: 350px;
+  margin-right: 50px;
+  float: left;
+}
+#ab{
+  width: 1300px;
+  height: 500px;
+}
+#minsa{
+  height:100px;
+  width: 100px;
+  float: left;
+}
+#minsb{
+  height:100px;
+  width: 100px;
+  float: left;
+}
+#minsc{
+  height:100px;
+  width: 100px;
+  border: 1px solid black;
+  float: left;
+}
+#you{
+  height:400px;
+  width:400px;
+  border: 10px solid gainsboro;
+  background-color: white;
+  float: left;
+}
+#av{
+  height:100px;
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+#bv{
+  height:100px;
+  width: 100px;
+  float: left;
+  margin-right: 10px;
+  border: 1px solid black;
+}
+#cv{
+  height:100px;
+  width: 100px;
+  float: left;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+#computer{
+   height:400px;
+  width:400px;
+  border: 10px solid gainsboro;
+  background-color: white;
+  float: left;
+  margin-left: 50px;
+
+} 
+#f{
+  display: inline;
+  line-height: 50px;
+  font-family: arica;
+  text-align: center;
+}
+#fa{
+  display: inline;
+  font-family: arica;
+}
+#fb{
+  display: inline;
+  font-family: arica;
+}
+#fc{
+  display: inline;
+  font-family: arica;
+}
+#fd{
+  display: inline;
+  font-family: arica;
+}
+img{
+  cursor: pointer;
+}
